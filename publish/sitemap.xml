@@ -140,7 +140,13 @@
     </url>
   
     <url>
-      <loc>https://rasysemijoias.netlify.app/trio-delicado-ponto-de-luz-zirconia-ouro-rasy-semijoia-c708</loc>
+      <loc>https://rasysemijoias.netlify.app/brinco-delicado-ponto-de-luz-zirconia-ouro-rasy-semijoia</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://rasysemijoias.netlify.app/brinco-delicado-ponto-de-luz-zirconia-prata-rasy-semijoia</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>

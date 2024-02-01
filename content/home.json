@@ -5,10 +5,10 @@
     {
       "type": "banner-slider",
       "autoplay": 9000,
-      "full_width": false,
+      "full_width": true,
       "slides": [
         {
-          "img": "/img/uploads/banner-ecomerce.png",
+          "img": "/img/uploads/banner-frente-site-rasy.png",
           "link": "/headset",
           "alt": "Headset banner",
           "start": "2023-05-20T18:38:26.229Z",

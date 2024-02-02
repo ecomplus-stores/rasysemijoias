@@ -16,9 +16,11 @@
     "socials": true
   },
   "categories_list": {
-    "featured": [],
-    "random": 6,
-    "full_width": false
+    "featured": [
+      "/atena?ATENA"
+    ],
+    "random": 12,
+    "full_width": true
   },
   "centralized_logo": false,
   "desktop_megamenu": false,

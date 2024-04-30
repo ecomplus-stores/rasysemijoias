@@ -17,9 +17,14 @@
   },
   "categories_list": {
     "featured": [
-      "/atena?ATENA"
+      "/atena?COLEÇÃO ATENA",
+      "/eterna-gratidao?COLECÃO ETERNA GRATIDÃO",
+      "/brincos?BRINCOS",
+      "/colares?COLARES",
+      "/conjuntos?CONJUNTOS",
+      "/pulseiras?PULSEIRAS"
     ],
-    "random": 12,
+    "random": 0,
     "full_width": true
   },
   "centralized_logo": false,

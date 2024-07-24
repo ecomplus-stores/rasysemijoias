@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.53f6cbde4cfc54f7da3e04ec6ea02cb5.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.e4ca6afadc2eedc16f3b692b81814305.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.e7b7e3b15a01eadf537f53b62d685bb9.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.af6a76b127df8064671952c66b10af23.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.a266b24876d4d2d439932f3102e56b1e.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "RASY Semi Joias",
+  "short_name": "rasysemijoias",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Loja de Semi Joias ",
+  "background_color": "#0f0f0f",
+  "theme_color": "#dcc053"
+}

@@ -2,30 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
     <url>
-      <loc>https://rasysemijoias.com.br/brincos</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://rasysemijoias.com.br/colares</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://rasysemijoias.com.br/conjuntos</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://rasysemijoias.com.br/pulseiras</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://rasysemijoias.com.br/brinco-de-argolinha-retangular-cravejada-de-zirconias-banhado-em-ouro-18k-e-prata-925-rasy</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -542,6 +518,30 @@
     </url>
   
     <url>
+      <loc>https://rasysemijoias.com.br/brincos</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://rasysemijoias.com.br/colares</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://rasysemijoias.com.br/conjuntos</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://rasysemijoias.com.br/pulseiras</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://rasysemijoias.com.br/eterna-gratidao</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -572,13 +572,13 @@
     </url>
   
     <url>
-      <loc>https://rasysemijoias.com.br/pages/privacidade</loc>
+      <loc>https://rasysemijoias.com.br/pages/pagamentos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://rasysemijoias.com.br/pages/pagamentos</loc>
+      <loc>https://rasysemijoias.com.br/pages/privacidade</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -614,15 +614,15 @@
     </url>
   
     <url>
-      <loc>https://rasysemijoias.com.br/blog</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://rasysemijoias.com.br/</loc>
       <changefreq>daily</changefreq>
       <priority>1</priority>
+    </url>
+  
+    <url>
+      <loc>https://rasysemijoias.com.br/blog</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
     </url>
   
     <url>
